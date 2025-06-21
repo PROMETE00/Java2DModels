@@ -1,5 +1,3 @@
-# Java2DModels
-
 # 2D Graphics Transformation Project
 
 ## Project Description
